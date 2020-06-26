@@ -8,3 +8,7 @@ win = pygame.display.set_mode((700, 700))
 #Название
 pygame.display.set_caption("AQUARIUM")
 
+run=True
+#Запускаем цикл
+while run == True :
+  
